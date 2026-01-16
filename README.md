@@ -5,6 +5,12 @@ Cyber Security Task 2
 
 
 Phishing Email Detection & Awareness System
+
+
+
+
+
+
 🔍 About the Task
 Phishing is one of the most common and costly cyber attacks faced by businesses today.
 
